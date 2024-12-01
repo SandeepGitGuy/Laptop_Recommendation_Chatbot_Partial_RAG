@@ -1,0 +1,2 @@
+- [Version 0.2]-01/12/24 - Changed code to input API Keys from user instead of Hardcoding.
+- [Version 0.3]-01/12/24 - Added OpenAI Model(Currently GPT4o-mini only). Reconfigured code to accommodate the change. Some bug fixes.
