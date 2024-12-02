@@ -28,6 +28,25 @@ The Laptop Recommendation Assistant with Partial RAG simplifies the process of f
 
 ---
 
+
+## 🧪 Example Use Cases
+- "What is the best laptop for graphic design under ₹1,00,000?"
+- "Suggest a lightweight laptop with long battery life for students."
+- "Recommend a high-performance laptop for gaming within ₹70,000."
+
+---
+
+## 📸 Sample Output
+### 1. User Input Interface
+![Recommendation Output](Code%20Sample%20Output%20Screenshots/Sample%20output%201.png)
+
+### 2. Recommendation Output
+![Recommendation Output](Code%20Sample%20Output%20Screenshots/Sample%20output%202.png)
+
+
+---
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -49,13 +68,6 @@ pip install -r requirements.txt
 
 4. Run the main file from Jupyter environment:
 "Laptop_recommendation_Partial_RAG.ipynb"
-
----
-
-## 🧪 Example Use Cases
-- "What is the best laptop for graphic design under ₹1,00,000?"
-- "Suggest a lightweight laptop with long battery life for students."
-- "Recommend a high-performance laptop for gaming within ₹70,000."
 
 ---
 
